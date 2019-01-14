@@ -16,7 +16,7 @@ function subliminal()
 
 	cmd = {
 		args = {
-			"subliminal",
+			"subliminal-subtitles",
 			"download",
 			"--single",      -- Save subtitle without language code in the file name
 			--"--force",       -- Force download even if a subtitle already exist

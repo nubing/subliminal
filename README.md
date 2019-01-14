@@ -4,15 +4,15 @@ Subliminal - Subtitles, faster than your thoughts
 
 Example usage:
 
-	subliminal download --language en movie.mp4
+	subliminal-subtitles download --language en movie.mp4
 
 ## Installation
 
 Get it from the Snap Store or install in terminal.
 
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/subliminal)
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/subliminal-subtitles)
 
-	snap install subliminal
+	snap install subliminal-subtitles
 
 ## MPV Subtitles Script
 
