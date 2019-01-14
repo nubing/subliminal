@@ -7,14 +7,14 @@ description: |
 
   subliminal download --language en movie.mp4
 
-grade: stable
+grade: edge
 confinement: strict
 
 architectures: [amd64]
 base: core18
 
 apps:
-  subliminal:
+  subliminal-subtitles:
     command: bin/desktop-launch $SNAP/bin/subliminal
     environment:
       LC_ALL: C.UTF-8
