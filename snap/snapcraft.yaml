@@ -7,7 +7,7 @@ description: |
 
   subliminal download --language en movie.mp4
 
-grade: edge
+grade: stable
 confinement: strict
 
 architectures: [amd64]
