@@ -7,10 +7,12 @@ description: |
 
   subliminal-subtitles download --language en movie.mp4
 
+  If you need original name to integrate with other software make an alias with following command:
+
+  sudo snap alias subliminal-subtitles subliminal
+
 grade: stable
 confinement: strict
-
-architectures: [amd64]
 base: core18
 
 apps:
