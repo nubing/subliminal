@@ -5,7 +5,7 @@ description: |
   Finds and downloads subtitles from Addic7ed, LegendasTv, NapiProjekt,
   OpenSubtitles, Podnapisi, Shooter, TheSubDB and TVsubtitles providers.
 
-  subliminal download --language en movie.mp4
+  subliminal-subtitles download --language en movie.mp4
 
 grade: stable
 confinement: strict
